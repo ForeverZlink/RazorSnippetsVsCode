@@ -1,0 +1,8 @@
+Não criar pastas ou diretórios com espaços, pois isso pode quebrar os diretórios e fazer com que eles não sejam encontrados 
+ou que uma parte do diretório seja dado como parametro de uma função 
+
+forma certa e que o link  de arquivos consegue achar: 
+/home/stkyouma/Downloads/Programção/MySnippetsVsCode/RazorSnippets 
+
+formaj errada, da qual quando vocẽ passa esse diretório pelo o terminal, o diretório quebra por causa dos espaços 
+e o sistemas não pesquisa pelo o diretório todo: /home/stkyouma/Downloads/Programção/My Snippets VsCode/Razor Snippets

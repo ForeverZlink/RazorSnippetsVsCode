@@ -7,7 +7,7 @@
 		],
 		"description": "Tag for acess a model"
 	},
-	"if":{
+	"iff":{
 		"prefix": "if",
 		"body": "@if(${1:value==null}){\n\n}",
 		"description": "Its a logical statement if"
