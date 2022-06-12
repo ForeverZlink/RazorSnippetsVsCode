@@ -62,6 +62,11 @@
 		"prefix":"RenderBody",
 		"body":"@RenderBody()",
 		"description":"Render the body of html in other html"
+	},
+	"HtmlAction":{
+		"prefix":"HtmlAction",
+		"body":"@Html.ActionLink(${1:value})",
+		"description":"this serve for put a link in html"
 	}
 	
 	
